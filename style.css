@@ -165,3 +165,7 @@ textarea:focus, input:focus{
     outline: none;
 }
 
+button:focus, input:focus{
+    outline: none;
+}
+
