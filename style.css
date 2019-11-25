@@ -1,0 +1,167 @@
+header {
+    position: absolute;
+    right: 30px;
+    top: 17px;
+}
+
+header a {
+    color: black;
+    text-decoration: none;
+    padding: 0px 18px 10px 0px;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+}
+
+header button {
+    background-color: #4387fd;
+    color: white;
+    margin-left: 20px;
+    font-weight: bold;
+    padding: 7px 13px;
+    border-style: hidden;
+    font-size: 13px;
+    border-radius: 2px;
+}
+
+.grid {
+    background-image: url(icons.png);
+    background-size: 528px 68px;
+    background-position: -138px -44px;
+    opacity: .55;
+    height: 30px;
+    width: 30px;
+}
+
+#google {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 197px;
+}
+
+#textfield {
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+  margin-top: 27px;
+  width: 580px;
+  height: 45px;
+  border-radius: 27px;
+  border-color: lightgray;
+  border-style: solid;
+  border-width: thin;
+  font-size: 15px;
+  position: relative;
+  top: 197px;
+}
+
+#textentry {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  margin-left: auto;
+  margin-right: auto; 
+  width: 500px;
+  height: 45px;
+  border-style: hidden;
+  border-radius: 27px;
+  font-size: 15px;
+}
+
+svg {
+    margin: 13px 5px 0px 15px;
+    height: 20px;
+    width: 20px;
+}
+
+path {
+    
+    fill: #9AA0A6;
+}
+
+#mic{
+    float: right;
+    margin: 10px 15px 0px 5px;
+}
+.buttons {
+  width: 266px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  position: relative;
+  top: 197px;
+}
+#button {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  width: 125px;
+  height: 37px;
+  border-style: hidden;
+  color: #5F6368;
+  font-size: 13px;
+}
+#button2 {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  width: 125px;
+  height: 37px;
+  margin-left: 10px;
+  border-style: hidden;
+  color: #5F6368;
+  font-size: 13px;
+}
+
+footer {
+    position: absolute; 
+    bottom: 0;
+    left:0;
+    right:0;
+    background-color: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    margin: 0px;
+
+    
+}
+
+#foot {
+    display: block;
+    width: auto;
+    padding: 12px 0px 12px 30px;
+    border-bottom: 1px solid #e4e4e4;
+    margin: 0px;
+    font-size: 15px;
+}
+#footLeft{
+    float: left;
+    padding-left: 30px;
+
+}
+
+#footRight{
+    float: right;
+}
+.btm {
+    display: inline;
+    width: auto;
+    margin: 0px;
+    padding: 12px 0px;
+}
+footer a {
+    padding: 0px 27px 0px 0px;
+    color: #5F6368;
+    text-decoration: none ;
+}
+
+p {
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    color: #5F6368;
+}
+
+
+textarea:focus, input:focus{
+    outline: none;
+}
+
